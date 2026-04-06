@@ -412,6 +412,9 @@ def classify_waste(image_path):
 }
 ```
 
+### Certificate
+![Certificate](Results/Certificate.png)
+
 ---
 
 ## 📄 License
